@@ -53,3 +53,7 @@ terraform destroy
 |     Output    |            Description         |  
 |------------------|--------------------------------|
 |    django_elb_dns      |  django ELB  dns end point to connect to django server |
+
+Authors
+Module managed by Bharat Puri. Contact at : bhpuri@gmail.com for support and consulting
+
